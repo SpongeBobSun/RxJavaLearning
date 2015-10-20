@@ -1,0 +1,3 @@
+rootProject.name = 'RxJavaTest'
+include 'app'
+
